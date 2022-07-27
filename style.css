@@ -1,0 +1,17 @@
+body {
+  height: 300px;
+  width: 400px;
+  background-image: url('https://image.shutterstock.com/image-vector/photo-frame-funny-emoji-empty-260nw-1338971957.jpg');
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  padding-left: 80px;
+  padding-right: 50px;
+}
